@@ -1,2 +1,17 @@
-# project3-nodejs-rest
-NodeJS rest API (project 3)
+# project3-nodejs
+
+To install bun [click here](https://bun.sh)
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run main.ts
+```
+
+This project was created using `bun init` in bun v1.1.30. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.

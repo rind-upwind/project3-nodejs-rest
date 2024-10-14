@@ -1,0 +1,19 @@
+{
+    "name": "project3-nodejs",
+    "module": "main.ts",
+    "type": "module",
+    "scripts": {
+        "dev": "bun run --watch ."
+    },
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@types/express": "^5.0.0",
+        "express": "^4.21.1",
+        "sqlite3": "^5.1.7"
+    }
+}
